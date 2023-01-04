@@ -1,0 +1,11 @@
+lambda expressions!
+pagination.
+jpql.
+jointure des tables.
+springevents
+spring cloud find client 
+architecture microservice
+JAVA 17 (Records, Streams, functinnals BI)
+
+
+
